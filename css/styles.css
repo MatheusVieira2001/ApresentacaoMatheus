@@ -39,7 +39,7 @@ hr{
 
 .conteiner-top{
   background-color: #E4F9F5;
-  padding-top: 20px;
+  padding-bottom: 5px;
   position: relative;
 }
 
@@ -49,11 +49,11 @@ hr{
 
 .nuvem{
   position: relative;
-  margin-top: 40px;
   left: 200px;
+  top: 85px;
 }
 
-.nuvem2{
+.nuvem-2{
   position: absolute;
   bottom: 300px;
   left: 300px;
