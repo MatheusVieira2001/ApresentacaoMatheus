@@ -74,18 +74,18 @@ hr{
   text-align: left;
  }
 
-.skills1{
+.skills-1{
   width: 25%;
   float: left;
   margin-right: 30px;
 }
-.skills2{
+.skills-2{
   width: 25%;
   float: right;
   margin-left: 30px;
 }
 
-.skills3{
+.skills-3{
   width: 25%;
   float: left;
   margin-right: 30px;
@@ -138,7 +138,7 @@ height: 165px;
 }
 
 
-.link1{
+.link-1{
   margin-left: 10px;
   margin-right: 10px;
   color: #EAF6F6;
@@ -160,11 +160,11 @@ background-position: 100% 100%, 0 100%;
 background-repeat: no-repeat;
 transition: background-size 400ms;
 }
-.link1:hover {
+.link-1:hover {
   background-size: 0 3px, 100% 3px;
 }
 
-.link2{
+.link-2{
   margin-left: 10px;
   margin-right: 10px;
   text-decoration: none;
@@ -186,11 +186,11 @@ background-position: 100% 100%, 0 100%;
 background-repeat: no-repeat;
 transition: background-size 400ms;
 }
-.link2:hover {
+.link-2:hover {
   background-size: 0 3px, 100% 3px;
 }
 
-.link3{
+.link-3{
   margin-left: 10px;
   margin-right: 10px;
   color: #EAF6F6;
@@ -212,7 +212,7 @@ background-position: 100% 100%, 0 100%;
 background-repeat: no-repeat;
 transition: background-size 400ms;
 }
-.link3:hover {
+.link-3:hover {
   background-size: 0 3px, 100% 3px;
 }
 
